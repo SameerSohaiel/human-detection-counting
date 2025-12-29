@@ -279,9 +279,9 @@ If you use this system in research, please cite:
 ```bibtex
 @software{human_detection_counting,
   title={Human Detection and Counting System},
-  author={Your Name},
+  author={Sameer Sohaiel M},
   year={2024},
-  url={https://github.com/yourusername/human-detection-counting}
+  url={https://github.com/SameerSohaiel/human-detection-counting}
 }
 ```
 
